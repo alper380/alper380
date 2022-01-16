@@ -12,7 +12,7 @@
 <p align="center">
 <br>
 <a href="https://discord.com/users/300657531242676224">
-        <img src="https://lanyard.cnrad.dev/api/300657531242676224?idleMessage=%22%20T%20%20%20%20%22&borderRadius=25px" />
+        <img src="https://lanyard-profile-readme.vercel.app/api/603948445362946084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
 &nbsp;
