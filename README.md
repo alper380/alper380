@@ -11,8 +11,8 @@
 &nbsp;
 <p align="center">
 <br>
-<a href="https://discord.com/users/300657531242676224">
-        <img src="https://lanyard.cnrad.dev/api/300657531242676224?idleMessage=%22She%20Loves%20Me%20But%20Idc%20%22&borderRadius=25px" />
+<a href="https://discord.com/users/761234259175276565">
+        <img src="https://lanyard.cnrad.dev/api/761234259175276565?idleMessage=%22She%20Loves%20Me%20But%20Idc%20%22&borderRadius=25px" />
     </a>
 </p>
 &nbsp;
