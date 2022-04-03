@@ -3,7 +3,7 @@
 </h2>
 <br>
 <a href="https://github.com/alper380/">
-        <img src="https://komarev.com/ghpvc/?username=alper380&label=Ziyaretçi%20Sayısı&color=552b75" alt="alper380" />
+        <img src="https://komarev.com/ghpvc/?username=alper380&label=Profile%20Views&color=552b75" alt="alper380" />
   </a> 
 <br>
 
