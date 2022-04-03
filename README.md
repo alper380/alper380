@@ -3,7 +3,7 @@
 </h2>
 <br>
 <a href="https://github.com/alper380/">
-        <img src=![](https://komarev.com/ghpvc/?alper380) />
+        <img src=![](https://komarev.com/ghpvc/?username=alper380 />
   </a> 
 <br>
 
